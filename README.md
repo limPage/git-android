@@ -2,5 +2,5 @@
 git android
 
 
-1ㅏ
+1
 ㅏ
